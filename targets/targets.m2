@@ -1,1 +1,1 @@
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/avia/avia_l4_tcp -t 2000 --rpc 2000 --table
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l7_http -t 2000 --rpc 2000 --http-methods GET POST --table
