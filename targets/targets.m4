@@ -1,1 +1,1 @@
-https://neophones.ru https://neophones.ru/utm5/connect_master https://neocomms.ru/payment https://neocomms.ru/contacts https://neophones.ru/tariffs -t 1500 --rpc 1500 -p 900 --http-methods STRESS POST --table
+-c http://goals.ddosukraine.com.ua/haydamaky/targets_tcp.txt -t 1500 -p 4000 --rpc 2000 --table
