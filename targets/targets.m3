@@ -1,1 +1,1 @@
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/1c/1c_l7_url -t 1500 --rpc 1500 --http-methods GET STRESS --table
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/1c/1c_l7_url -t 1000 --rpc 1500 --http-methods GET STRESS --table
