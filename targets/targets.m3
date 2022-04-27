@@ -1,1 +1,1 @@
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l7_url -t 2500 --rpc 2000 --http-methods GET STRESS --table
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l7_url -t 2000 --rpc 2000 --http-methods GET STRESS --table
