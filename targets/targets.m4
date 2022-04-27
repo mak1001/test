@@ -1,1 +1,1 @@
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l4_tcp -t 2000 --rpc 2000 --table
+-c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/tender/tender_l4_tcp -t 2500 --rpc 2000 --table
