@@ -1,1 +1,1 @@
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/IPTV/iptv_l7_url -t 2000 --rpc 2000 --http-methods GET STRESS --table
+--itarmy -t 2000 --table
