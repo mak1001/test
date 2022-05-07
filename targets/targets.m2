@@ -1,1 +1,1 @@
-https://egais.ru https://service.egais.ru https://check.egais.ru https://documents-utm.egais.ru https://cheques-utm.egais.ru https://queries-utm.egais.ru -t 2000 --rpc 2000 -p 900 --http-methods STRESS POST --table
+https://egais.ru https://service.egais.ru https://check.egais.ru https://documents-utm.egais.ru https://cheques-utm.egais.ru https://queries-utm.egais.ru -t 1500 --rpc 2000 -p 900 --http-methods STRESS POST --table
