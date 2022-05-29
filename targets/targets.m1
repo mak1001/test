@@ -1,1 +1,1 @@
--c http://goals.ddosukraine.com.ua/haydamaky/targets_tcp.txt -t 1000 --rpc 2000 --table
+-c http://goals.ddosukraine.com.ua/haydamaky/targets_tcp.txt -t 1500 --table
