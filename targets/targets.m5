@@ -1,1 +1,1 @@
-https://www.zakupki.ru http://torgi.dfsamara.ru/ https://market.mosreg.ru/ https://www.officemag.ru/ https://zakupki44fz.ru -t 2000 --rpc 2000 --http-methods STRESS,POST --table
+https://www.zakupki.ru http://torgi.dfsamara.ru/ https://market.mosreg.ru/ https://www.officemag.ru/ https://zakupki44fz.ru -t 2000 --rpc 2000 --http-methods STRESS POST --table
