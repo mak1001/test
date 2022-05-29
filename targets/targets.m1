@@ -1,1 +1,1 @@
--c http://goals.ddosukraine.com.ua/haydamaky/targets_tcp.txt -t 1500 --http-methods POST STRESS
+-c http://goals.ddosukraine.com.ua/haydamaky/targets_tcp.txt -t 1500 
