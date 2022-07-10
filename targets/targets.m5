@@ -1,1 +1,1 @@
---itarmy -t 5000 --rpc 5000 --vpn --table
+--itarmy -t 5000 --rpc 5000 --table
