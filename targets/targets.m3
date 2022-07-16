@@ -1,1 +1,1 @@
---itarmy -t 2000 --table
+--itarmy -t 2000
